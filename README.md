@@ -18,8 +18,9 @@ Versão: 02
 
 | Ícone | Descrição | Marcação |
 |:--------:|:--------:|:--------:|
-| <img src="https://i.imgur.com/gr5Iwoz.png" width="60" alt="icone">  | **uBlock Origin**<br>Melhor bloqueador de anúncios  | 🍀  |
-| <img src="https://i.imgur.com/feLO2Lu.png" width="60" alt="icone">  | **Decentraleyes**<br>Emulador de CDN  | 🍀  |
+| <img src="https://i.imgur.com/gr5Iwoz.png" width="60" alt="icone">  | **[uBlock Origin](https://ublockorigin.com/)**<br>Melhor bloqueador de anúncios  | 🍀  |
+| <img src="https://i.imgur.com/feLO2Lu.png" width="60" alt="icone">  | **[Decentraleyes](https://decentraleyes.org/)**<br>Emulador de CDN  | 🍀  |
+| <img src="https://i.imgur.com/OQOLni9.png" width="60" alt="icone">  | **[ClearURLs](https://docs.clearurls.xyz/)**<br>Emulador de CDN  | 🍀  |
 
 </div>
 
