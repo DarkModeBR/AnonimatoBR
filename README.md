@@ -29,6 +29,21 @@
 
 <br><br>
 
+<h1>Navegadores</h1>
+
+<br>
+
+| Ícone | Descrição | Marcação |
+|:--------:|:--------:|:--------:|
+| <img src="https://i.imgur.com/JKaHeG7.png" width="60" alt="icone"> | **[Brave](https://brave.com/pt-br/)**<br>Navegador focado em privacidade, com bloqueio nativo de anúncios, rastreamento reduzido e excelente desempenho. Ideal para quem quer velocidade e privacidade. | 🍀 |
+| <img src="https://i.imgur.com/gCcmKQe.png" width="60" alt="icone"> | **[Firefox](https://www.firefox.com/)**<br>Totalmente open-source, com forte proteção de privacidade e grande variedade de personalizações. Excelente para quem valoriza privacidade e controle. | 🍀 |
+
+<br><br>
+
+---
+
+<br><br>
+
 <h1>Extensões</h1>
 
 <br>
@@ -40,21 +55,6 @@
 | <img src="https://i.imgur.com/OQOLni9.png" width="60" alt="icone"> | **[ClearURLs](https://docs.clearurls.xyz/)**<br>Remove automaticamente parâmetros de rastreamento de links, deixando URLs limpas e impedindo que empresas monitorem sua navegação por cliques. | 🍀 |
 | <img src="https://i.imgur.com/Tw06GdK.png" width="60" alt="icone"> | **[Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)**<br>Excluir cookies automaticamente ao fechar abas, mantendo apenas os essenciais. | 🍀 |
 | <img src="https://i.imgur.com/0GQWXXt.png" width="60" alt="icone"> | **[Urban VPN](https://www.urban-vpn.com/pt-br/free-products/free-browser-extension/)**<br>VPN gratuita que permite mudar seu IP rapidamente, útil para desbloquear sites e aumentar privacidade sem complicação. | 🍀 |
-
-<br><br>
-
----
-
-<br><br>
-
-<h1>Navegadores</h1>
-
-<br>
-
-| Ícone | Descrição | Marcação |
-|:--------:|:--------:|:--------:|
-| <img src="https://i.imgur.com/JKaHeG7.png" width="60" alt="icone"> | **[Brave](https://brave.com/pt-br/)**<br>Navegador focado em privacidade, com bloqueio nativo de anúncios, rastreamento reduzido e excelente desempenho. Ideal para quem quer velocidade e privacidade. | 🍀 |
-| <img src="https://i.imgur.com/gCcmKQe.png" width="60" alt="icone"> | **[Firefox](https://www.firefox.com/)**<br>Totalmente open-source, com forte proteção de privacidade e grande variedade de personalizações. Excelente para quem valoriza privacidade e controle. | 🍀 |
 
 <br><br>
 
