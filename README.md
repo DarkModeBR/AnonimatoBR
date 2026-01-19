@@ -55,6 +55,7 @@
 | <img src="https://i.imgur.com/OQOLni9.png" width="60" alt="icone"> | **[ClearURLs](https://docs.clearurls.xyz/)**<br>Remove automaticamente parâmetros de rastreamento de links, deixando URLs limpas e impedindo que empresas monitorem sua navegação por cliques. | 🍀 |
 | <img src="https://i.imgur.com/Tw06GdK.png" width="60" alt="icone"> | **[Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)**<br>Excluir cookies automaticamente ao fechar abas, mantendo apenas os essenciais. | 🍀 |
 | <img src="https://i.imgur.com/0GQWXXt.png" width="60" alt="icone"> | **[Urban VPN](https://www.urban-vpn.com/pt-br/free-products/free-browser-extension/)**<br>VPN gratuita que permite mudar seu IP rapidamente, útil para desbloquear sites e aumentar privacidade sem complicação. | 🍀 |
+| <img src="https://i.imgur.com/g44fLus.png" width="60" alt="icone"> | **[TempmailBee](https://tempmailbee.com/)**<br>Website e extensão de e-mail temporário simples e ótimos, onde a extensão preenche automaticamente campos de e-mail e senha. | 🍀 |
 
 <br><br>
 
